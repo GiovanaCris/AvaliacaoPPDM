@@ -4,7 +4,6 @@
 ## 🚨 Importante
 - Os comandos podem variar de acordo com o sistema operecional;
 - O projeto foi realizado em um computador windows então os comandos aqui descritos são para windows!
-- Diferenças que notei bastante entre DART e PYTHON foi *identação* pois em python é bem importante e em dart não faz diferença e *;* pois em python não é muito utilizado e dart da erro quando não utiliza
 
 ## 💫 1- If/else
 - DART: Em dart fazemos a seguinte estrutura:
@@ -114,7 +113,7 @@ PYTHON:
 ```
 - Em python fazemos sem chaves e sem parênteses, mas a estrutura é bem similar
 
-## 5- While True
+## 🎯 5- While True
 DART: Em dart fazemos essa estrutura:
 ```python
     int contador = 1;
@@ -143,3 +142,4 @@ PYTHON: Em python fazemos a seguinte estrutura:
 
 ```
 - Em python segue a mesma estrutura porém o contador fica += 1 e não tem chaves nem parênteses
+- Diferenças que notei bastante entre DART e PYTHON foi *identação* pois em python é bem importante e em dart não faz diferença e *;* pois em python não é muito utilizado e dart da erro quando não utiliza
