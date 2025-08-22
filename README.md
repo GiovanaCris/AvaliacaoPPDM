@@ -80,4 +80,4 @@ else:
     print("Opção inválida!")
 - Em python não tem a estrutura switch case então ele faz basicamente o mesmo passo porém com if else nos casos
 
-## 🎗 4- 
+## 🎗 4- While
